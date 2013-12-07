@@ -25,3 +25,7 @@ allow avr development with your current workflow.
 
 * [wiki](http://tinkerish.com/wiki/)
 * [blog](http://tinkerish.com/blog/)
+
+## License
+
+GPL v2
